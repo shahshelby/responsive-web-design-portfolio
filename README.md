@@ -18,11 +18,11 @@ This project serves as a demonstration of a sample portfolio website created usi
 
 ## GitHub Page
 
-[![Live Demo](insert-demo-image-url-here)](insert-live-demo-url-here)
+Explore the GitHub Page: [GitHub Page](https://shahshelby.github.io/responsive-web-design-portfolio/)
 
 ## Important Note about Assets
 
-The assets used in this project are sourced from the internet. This project does not intend to sell or do any harm to the licenses of these assets.
+The assets used in this project are sourced from the Internet. This project does not intend to sell or do any harm to the licenses of these assets.
 
 ## License
 
